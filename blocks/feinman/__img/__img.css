@@ -1,0 +1,7 @@
+.feinman__img {
+    position: absolute;
+    overflow: hidden;
+    background-position: bottom left;
+    background-image: url(/images_sprint-1/feinman.png);
+    background-repeat: no-repeat;
+}

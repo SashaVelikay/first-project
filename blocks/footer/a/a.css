@@ -1,0 +1,13 @@
+a {
+    color: #2F80ED;
+}
+  
+a:visited {
+    color:#FFF;
+    transition: color 1s linear;
+}
+  
+a:hover {
+    color: red;
+    transition: color 1s linear;
+}

@@ -1,0 +1,12 @@
+.footer__link { 
+    text-decoration: none; 
+    line-height: 30px; 
+    font-size: 18px; 
+    color: #FFF;
+    list-style-type: none;
+    transition: color 0.25s linear;
+} 
+
+.footer__link:hover {
+    color: #FF0000;
+}

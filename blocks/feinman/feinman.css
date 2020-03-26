@@ -1,0 +1,14 @@
+
+.feinman {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 790px;
+    background-color: #F2F2F2;
+    background-image: url("../../images_sprint-1/feinman.png");
+    background-position: bottom left;
+    background-size: 867px 637px;
+    background-repeat: no-repeat;
+    bottom: 100px;
+} 
